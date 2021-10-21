@@ -81,7 +81,7 @@
                     
                     <deleteData>true</deleteData>
                     
-                    <packageName>com.test</packageName>
+                    <packageName>com.test.vinh</packageName>
                     
                 </configuration>
                 <dependencies>

@@ -1,8 +1,6 @@
 package com.test;
 
-import java.io.File;
 import java.util.Date;
-import javax.sql.DataSource;
 import net.sourceforge.sql2java.lib.*;
 import org.hsqldb.jdbc.JDBCDataSource;
 import org.junit.*; 

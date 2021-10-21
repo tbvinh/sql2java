@@ -2,8 +2,6 @@
 
 package net.sourceforge.sql2java;
 
-import java.io.*;
-
 /**
  * @author Kelvin Nishikawa
  *

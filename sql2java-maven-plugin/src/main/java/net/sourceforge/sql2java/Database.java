@@ -3,8 +3,6 @@
 package net.sourceforge.sql2java;
 
 import java.sql.*;
-import java.util.*;
-import java.io.*;
 import java.util.Vector;
 import java.util.Hashtable;
 

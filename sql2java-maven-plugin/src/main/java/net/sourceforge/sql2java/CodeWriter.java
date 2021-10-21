@@ -6,7 +6,6 @@ package net.sourceforge.sql2java;
 
 import java.io.*;
 import java.util.*;
-import java.sql.Types;
 
 import org.apache.velocity.Template;
 import org.apache.velocity.app.Velocity;

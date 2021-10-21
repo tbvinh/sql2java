@@ -4,7 +4,6 @@ package net.sourceforge.sql2java;
 
 import java.util.*;
 import java.io.*;
-import java.sql.SQLException;
 
 public class Main {
 
